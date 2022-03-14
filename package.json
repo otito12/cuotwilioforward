@@ -1,0 +1,22 @@
+{
+  "name": "cuotwilioforward",
+  "version": "1.0.0",
+  "description": "Literally had to deploy a whole forwarding API because appsmith couldn't handle the line break for twilio sms... LOL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otito12/cuotwilioforward.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otito12/cuotwilioforward/issues"
+  },
+  "homepage": "https://github.com/otito12/cuotwilioforward#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
